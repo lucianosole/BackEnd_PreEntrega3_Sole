@@ -1,0 +1,312 @@
+[
+  {
+    "id": 1,
+    "nombre": "Bolsa para protecciones",
+    "marca": "Genérico",
+    "categoria": "accesorios",
+    "detalle": "Bolsa para tranportar protecciones.",
+    "precio": 2500,
+    "imagen": "bolsa_itf.jpg",
+    "stock": 15
+  },
+  {
+    "id": 2,
+    "nombre": "Bolso mediano con bolsillos",
+    "marca": "Grandmarc",
+    "categoria": "accesorios",
+    "detalle": "Bolso mediano con bolsillos 60 x 35 x 40 (cm).",
+    "precio": 11500,
+    "imagen": "bolso_grande.jpg",
+    "stock": 10
+  },
+  {
+    "id": 3,
+    "nombre": "Bolso grade con bolsillos",
+    "marca": "ITF",
+    "categoria": "accesorios",
+    "detalle": "Bolso grande con bolsillos 75 x 40 x 40 (cm).",
+    "precio": 13500,
+    "imagen": "bolso_itf_grande.jpg",
+    "stock": 5
+  },
+  {
+    "id": 4,
+    "nombre": "Cabezal azul",
+    "marca": "Genérico",
+    "categoria": "proteccion",
+    "detalle": "Cabezal azul para entrenamiento.",
+    "precio": 22500,
+    "imagen": "cabezal_azul.jpg",
+    "stock": 10
+  },
+  {
+    "id": 5,
+    "nombre": "Cabezal rojo",
+    "marca": "Grandmarc",
+    "categoria": "proteccion",
+    "detalle": "Cabezal rojo para comteticiones y entrenamientos.",
+    "precio": 26500,
+    "imagen": "cabezal_rojo.jpg",
+    "stock": 10
+  },
+  {
+    "id": 6,
+    "nombre": "Campera FEDART - ITF",
+    "marca": "Grandmarc",
+    "categoria": "indumentaria",
+    "detalle": "Campera Federación Argentina Taekwondo.",
+    "precio": 10800,
+    "imagen": "campera_itf_grandmark.jpg",
+    "stock": 20
+  },
+  {
+    "id": 7,
+    "nombre": "Cinturones colores / gups",
+    "marca": "Genérico",
+    "categoria": "accesorios",
+    "detalle": "Cinturon Taekwondo Gups.",
+    "precio": 2300,
+    "imagen": "cinturon_gap.jpg",
+    "stock": 50
+  },
+  {
+    "id": 8,
+    "nombre": "Cinturón Dan / bordado",
+    "marca": "Genérico",
+    "categoria": "accesorios",
+    "detalle": "Cinturon negro / Dan, con bordados de categoría y nombre",
+    "precio": 7500,
+    "imagen": "cinturon_negro.jpg",
+    "stock": 10
+  },
+  {
+    "id": 9,
+    "nombre": "Dobok Grandmarc gups",
+    "marca": "Grandmarc",
+    "categoria": "indumentaria",
+    "detalle": "Dobok blanco para gups.",
+    "precio": 9500,
+    "imagen": "dobok_grandmark.jpg",
+    "stock": 15
+  },
+  {
+    "id": 10,
+    "nombre": "Dobok Grandmarc Dan",
+    "marca": "Grandmarc",
+    "categoria": "indumentaria",
+    "detalle": "Dobok con líneas negras para danes.",
+    "precio": 16800,
+    "imagen": "dobok_grandmark_danes.jpg",
+    "stock": 10
+  },
+  {
+    "id": 11,
+    "nombre": "Foco medio cuerpo grande",
+    "marca": "Genérico",
+    "categoria": "proteccion",
+    "detalle": "Foco grande para entrenamiento.",
+    "precio": 18300,
+    "imagen": "foco_grande_sparring.jpg",
+    "stock": 10
+  },
+  {
+    "id": 12,
+    "nombre": "Foco 'kick-pad' de mano",
+    "marca": "Genérico",
+    "categoria": "proteccion",
+    "detalle": "Foco para manos, entrenamiento 'kicks'.",
+    "precio": 6800,
+    "imagen": "foco_kickpad.jpg",
+    "stock": 10
+  },
+  {
+    "id": 13,
+    "nombre": "Foco 'kick-pad' de mano grande",
+    "marca": "Genérico",
+    "categoria": "proteccion",
+    "detalle": "Foco grand para manos, entrenamiento 'kicks'.",
+    "precio": 7500,
+    "imagen": "foco_kickpad_mano.jpg",
+    "stock": 8
+  },
+  {
+    "id": 14,
+    "nombre": "Foco de mano para sparring",
+    "marca": "Genérico",
+    "categoria": "proteccion",
+    "detalle": "Foco de manos para entrenamiento. Medidas 30x15 (cm).",
+    "precio": 6400,
+    "imagen": "foco_sparring.jpg",
+    "stock": 10
+  },
+  {
+    "id": 15,
+    "nombre": "Gorro Taekwondo",
+    "marca": "Genérico",
+    "categoria": "accesorios",
+    "detalle": "Gorra negra con logo de Taekwondo ITF.",
+    "precio": 1300,
+    "imagen": "gorra_itf.jpg",
+    "stock": 10
+  },
+  {
+    "id": 16,
+    "nombre": "Guantes profecionales",
+    "marca": "Genérico",
+    "categoria": "proteccion",
+    "detalle": "Guantes de competición aprobados ITF.",
+    "precio": 22300,
+    "imagen": "guantes_competicion.jpg",
+    "stock": 12
+  },
+  {
+    "id": 17,
+    "nombre": "Parches Banderas / Logo ITF",
+    "marca": "Genérico",
+    "categoria": "accesorios",
+    "detalle": "Parches bordados para agregar a tus prendas o accesorios.",
+    "precio": 600,
+    "imagen": "parches.jpg",
+    "stock": 10
+  },
+  {
+    "id": 18,
+    "nombre": "Parche estampado",
+    "marca": "Genérico",
+    "categoria": "accesorios",
+    "detalle": "Parche estampado de Taekwondo ITF.",
+    "precio": 350,
+    "imagen": "parches_itf.jpg",
+    "stock": 100
+  },
+  {
+    "id": 19,
+    "nombre": "Protectos para piés azul",
+    "marca": "Grandmarc",
+    "categoria": "proteccion",
+    "detalle": "Protectores azules de competición para piés.",
+    "precio": 22800,
+    "imagen": "protector_azul_pies_invictus.jpg",
+    "stock": 10
+  },
+  {
+    "id": 20,
+    "nombre": "Protector bucal doble",
+    "marca": "Adidas",
+    "categoria": "proteccion",
+    "detalle": "Protector bucal doble de silicona.",
+    "precio": 3150,
+    "imagen": "protector_bucal_doble_adidas.jpg",
+    "stock": 10
+  },
+  {
+    "id": 21,
+    "nombre": "Protector bucal simple",
+    "marca": "Genérico",
+    "categoria": "proteccion",
+    "detalle": "Protector bucal simple, de silicona moldeable.",
+    "precio": 1100,
+    "imagen": "protector_bucal_simple.jpg",
+    "stock": 10
+  },
+  {
+    "id": 22,
+    "nombre": "Protector bucal simple de goma",
+    "marca": "Daerdo",
+    "categoria": "proteccion",
+    "detalle": "Protector bucal , inferior rígido, solo moldeable la parte superior.",
+    "precio": 1800,
+    "imagen": "protector_bucal_simple_prof.jpg",
+    "stock": 10
+  },
+  {
+    "id": 23,
+    "nombre": "Protecciones para manos",
+    "marca": "Grandmarc",
+    "categoria": "proteccion",
+    "detalle": "Protecciones para manos sparring, no aprobados para competiciones.",
+    "precio": 16800,
+    "imagen": "protector_guantes_sparring.jpg",
+    "stock": 10
+  },
+  {
+    "id": 24,
+    "nombre": "Protector inguinal femenino",
+    "marca": "Genérico",
+    "categoria": "proteccion",
+    "detalle": "Protector inguinal femenino acolchado con elásticos.",
+    "precio": 7900,
+    "imagen": "protector_inginal_fem.jpg",
+    "stock": 10
+  },
+  {
+    "id": 25,
+    "nombre": "Protector inguinal masculino",
+    "marca": "Genérico",
+    "categoria": "proteccion",
+    "detalle": "Protector inguinal masculino con refuerzo y elásticos.",
+    "precio": 8900,
+    "imagen": "protector_inginal_masc.jpg",
+    "stock": 10
+  },
+  {
+    "id": 26,
+    "nombre": "Protectos para piés rojo",
+    "marca": "Grandmarc",
+    "categoria": "proteccion",
+    "detalle": "Protectores rojos de competición para piés.",
+    "precio": 22800,
+    "imagen": "protector_rojo_pies_invictus.jpg",
+    "stock": 13
+  },
+  {
+    "id": 27,
+    "nombre": "Punteras gups",
+    "marca": "Genérico",
+    "categoria": "accesorios",
+    "detalle": "Punteras para agregar a los cinturones de color.",
+    "precio": 300,
+    "imagen": "puntera_cinturon.jpg",
+    "stock": 20
+  },
+  {
+    "id": 28,
+    "nombre": "Remera Taekwondo ITF",
+    "marca": "Genérico",
+    "categoria": "indumentaria",
+    "detalle": "Remera de algodón varios colores con logos.",
+    "precio": 2300,
+    "imagen": "remera_itf.jpg",
+    "stock": 10
+  },
+  {
+    "id": 29,
+    "nombre": "Remera blanca Taekwondo ITF",
+    "marca": "Genérico",
+    "categoria": "indumentaria",
+    "detalle": "Remera de algodón blanca con logo en el pecho.",
+    "precio": 6540,
+    "imagen": "remera_itf_blanca.jpg",
+    "stock": 10
+  },
+  {
+    "id": 30,
+    "nombre": "Sticker Taekwonod ITF",
+    "marca": "Genérico",
+    "categoria": "accesorios",
+    "detalle": "Sticker autoadhesivo Taekwondo ITF.",
+    "precio": 350,
+    "imagen": "sticker_itf.jpg",
+    "stock": 100
+  },
+  {
+    "id": 31,
+    "nombre": "Pisos / Tatami ITF",
+    "marca": "Genérico",
+    "categoria": "accesorios",
+    "detalle": "Pisos de entrenamiento (tatami), aprovados. Medida 100 x 100 x 2.5 (cm).",
+    "precio": 8300,
+    "imagen": "tatami_aprovado_itf.jpg",
+    "stock": 250
+  }
+]
